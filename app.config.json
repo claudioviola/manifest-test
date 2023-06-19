@@ -1,0 +1,15 @@
+{
+	"scheme": "my-app",
+	"name": "myapp",
+	"slug": "my-app",
+	"icon": "./assets/icon.png",
+	"version":"1.0.0",
+	"orientation":"portrait",
+	"web":{
+	   "favicon":"./assets/favicon.png"
+	},
+	"notification":{
+	   "icon":"./assets/favicon.png",
+	   "color":"#012C3D"
+	}
+ }
